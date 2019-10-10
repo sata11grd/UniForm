@@ -1,2 +1,5 @@
 # UniForm
-Unity用フォームアプリケーション開発アセット
+Form Application Development Tools for Unity
+
+# Price
+Free
